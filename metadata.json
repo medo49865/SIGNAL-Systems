@@ -1,0 +1,6 @@
+{
+  "name": "SIGNAL Security Systems",
+  "description": "الموقع الرسمي لشركة سيجنال للأنظمة الأمنية والتيار الخفيف - توريد وتركيب كاميرات المراقبة، أجهزة الإنذار، والشبكات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
